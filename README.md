@@ -68,16 +68,15 @@ graph TD
 
 ## Build
 
-### Quer Contribuir?
-Estamos sempre procurando por novos aventureiros para se juntar à nossa guilda! Se você é um desenvolvedor, designer, ou apenas um entusiasta de RPG com boas ideias, sua contribuição é muito bem-vinda.
-
-### Tarefas para Iniciantes
-
-Para facilitar seus primeiros passos, separamos algumas tarefas que são ideais para novos contribuidores. Elas são um ótimo jeito de se familiarizar com o projeto.
+Em construção.
 
 ## Contribute
 
-Guia de Contribuição
+Estamos sempre procurando por novos aventureiros para se juntar à nossa guilda! Se você é um desenvolvedor, designer, ou apenas um entusiasta de RPG com boas ideias, sua contribuição é muito bem-vinda.
 
 Antes de começar, por favor, leia nosso guia de contribuição. Ele detalha nosso processo de submissão de código, padrões de commit, e outras informações importantes para garantir que tenhamos uma colaboração fluida e eficiente.
+
+### Tarefas para Iniciantes
+
+Para facilitar seus primeiros passos, separamos algumas tarefas que são ideais para novos contribuidores, elas são um ótimo jeito de se familiarizar com o projeto.
 
