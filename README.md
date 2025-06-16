@@ -59,18 +59,24 @@ graph TD
     style C fill:#444,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-## 🔗 Recursos Importantes
-📝 Workspace do Projeto: [Link para o Google Docs, Notion, ou outra ferramenta da equipe]
+## 🔗 Tecnologias Utilizadas e Recursos Importantes
+📌 Workspace do Projeto: em breve.
 
-🐛 Rastreador de Issues (GitHub): [Link para a aba "Issues" do seu repositório no GitHub]
+📌 Rastreador de Issues (GitHub): em breve.
 
-🚀 Kanban Board (GitHub Projects): [Link para o seu quadro de projetos no GitHub]
+📌 Kanban Board: em breve.
 
-## Build
+📌 Front-end: à definir.
+
+📌 Back-end: à definir.
+
+📌 Banco de Dados: à definir.
+
+## 🔗 Build
 
 Em construção.
 
-## Contribute
+## 🔗 Contribute
 
 Estamos sempre procurando por novos aventureiros para se juntar à nossa guilda! Se você é um desenvolvedor, designer, ou apenas um entusiasta de RPG com boas ideias, sua contribuição é muito bem-vinda.
 
