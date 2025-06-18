@@ -1,7 +1,7 @@
 # Solution Ideation Model Canvas
 
 ## Nome da Solução
-SmartCV AI – Currículo Inteligente e Roadmap de Carreira via IA
+IMPULS.AI – Currículo Inteligente e Roadmap de Carreira via IA
 
 ---
 
