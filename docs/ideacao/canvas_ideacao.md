@@ -86,8 +86,8 @@ Criar uma aplicação web baseada em IA que:
 ## Time
 
 - Product Owner e Desenvolvedor: Ithalo Araujo (iras@cin.ufpe.br)
-- Analista de Processos e Desenvolvedor:
-- Desenvolvimento e Testes:
+- Analista de Processos e Desenvolvedora: Maria Eduarda Lima (melg@cin.ufpe.br)
+- Desenvolvimento e Testes: Rafael Moura (rnm4@cin.ufpe.br)
 
 ---
 
