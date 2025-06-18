@@ -1,6 +1,6 @@
 # Contributing -  SmartCV AI
 
-Obrigado por seu interesse em contribuir com o SmartCV AI! Este projeto depende de colaboradores como você para crescer, melhorar e impactar positivamente quem busca oportunidades de emprego com mais inteligência e personalização.
+Obrigado por seu interesse em contribuir com o IMPULS.AI! Este projeto depende de colaboradores como você para crescer, melhorar e impactar positivamente quem busca oportunidades de emprego com mais inteligência e personalização.
 
 ## Requisitos do ambiente de desenvolvimento
 
@@ -18,8 +18,8 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/smartcv-ai.git
-cd smartcv-ai
+git clone https://github.com/seu-usuario/impulso.git
+cd impulso
 ```
 
 2. **Configure o frontend**
