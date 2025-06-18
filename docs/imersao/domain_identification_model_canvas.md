@@ -1,10 +1,10 @@
-## Canvas de Identificação do Domínio
+## Canvas de Identificação do Domínio - Impulso
 
 ---
 
 ### 1. Nome do Domínio
 
-**Otimização de Currículos e Preparação para Processos Seletivos**
+**Otimização de Currículos, Apoio em Carreira e Preparação para Processos Seletivos**
 
 ### 2. Descrição do Domínio
 
