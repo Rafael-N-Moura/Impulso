@@ -2,7 +2,7 @@
 
 ## Descrição Geral
 
-SmartCV AI é uma aplicação web baseada em inteligência artificial cujo objetivo é otimizar o currículo do usuário de acordo com uma vaga de emprego específica. A plataforma também gera um roadmap de estudos personalizado com base nas competências exigidas pela vaga, auxiliando na preparação para entrevistas técnicas e comportamentais.
+IMPULS.AI é uma aplicação web baseada em inteligência artificial cujo objetivo é otimizar o currículo do usuário de acordo com uma vaga de emprego específica. A plataforma também gera um roadmap de estudos personalizado com base nas competências exigidas pela vaga, auxiliando na preparação para entrevistas técnicas e comportamentais.
 
 ## Objetivos e Funcionalidades Esperadas
 
