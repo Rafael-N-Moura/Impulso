@@ -48,6 +48,7 @@ pip install -r requirements.txt
 ```
 
 5. **Configure variáveis de ambiente**
+
 Copie o arquivo `.env.example` para `.env` e preencha com suas credenciais locais:
 
 ```bash
