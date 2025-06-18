@@ -1,6 +1,6 @@
 # Building – IMPULS.AI
 
-Este documento fornece instruções detalhadas para construir, rodar e testar o projeto SmartCV AI localmente.
+Este documento fornece instruções detalhadas para construir, rodar e testar o projeto IMPULSO.AI localmente.
 
 ---
 
