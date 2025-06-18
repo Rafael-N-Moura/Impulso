@@ -1,4 +1,4 @@
-# SmartCV AI
+# IMPULS.AI
 
 ## Descrição Geral
 
