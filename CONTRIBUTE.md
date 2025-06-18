@@ -1,4 +1,4 @@
-# Contribuindo com o SmartCV AI
+# Contributing -  SmartCV AI
 
 Obrigado por seu interesse em contribuir com o SmartCV AI! Este projeto depende de colaboradores como você para crescer, melhorar e impactar positivamente quem busca oportunidades de emprego com mais inteligência e personalização.
 
