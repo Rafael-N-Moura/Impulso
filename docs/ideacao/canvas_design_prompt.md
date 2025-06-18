@@ -1,4 +1,4 @@
-# Prompt Design Model Canvas – SmartCV AI
+# Prompt Design Model Canvas – IMPULS.AI
 
 ## 1. Contexto da Interação
 
@@ -6,7 +6,7 @@
   Um usuário (candidato a emprego) que deseja melhorar seu currículo para uma vaga específica e se preparar melhor para entrevistas.
 
 - **Onde ocorre a interação?**\
-  Na interface web da aplicação SmartCV AI, por meio de um formulário onde o usuário envia a descrição da vaga e seu currículo.
+  Na interface web da aplicação IMPULS.AI, por meio de um formulário onde o usuário envia a descrição da vaga e seu currículo.
 
 - **Quando a interação ocorre?**\
   Após o envio dos dois inputs (vaga + currículo), a IA é acionada para processar os dados e gerar os dois outputs (currículo ajustado + roadmap).
