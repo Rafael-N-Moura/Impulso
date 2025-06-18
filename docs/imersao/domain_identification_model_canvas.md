@@ -12,14 +12,14 @@ O domínio abrange o processo de preparação de candidatos para o mercado de tr
 
 ### 3. Justificativa da Escolha
 
-Este domínio foi escolhido devido à **alta demanda por eficiência e personalização** nos processos seletivos. Candidatos e recrutadores enfrentam desafios significativos que a IA generativa pode resolver, como a dificuldade de alinhar currículos a vagas específicas, a ineficácia dos filtros ATS e a falta de direcionamento para o desenvolvimento de habilidades. A solução tem o potencial de **impactar diretamente a empregabilidade** dos usuários e **otimizar o trabalho dos recrutadores**, tornando-se altamente relevante para os negócios e tecnicamente viável.
+Este domínio foi escolhido devido à **alta demanda por eficiência e personalização** nos processos seletivos. Candidatos e recrutadores enfrentam desafios significativos que a IA generativa pode resolver, como a dificuldade de alinhar currículos a vagas específicas, a ineficácia dos filtros ATS e a falta de direcionamento para o desenvolvimento de habilidades. A solução tem o potencial de **impactar diretamente a empregabilidade** dos usuários, tornando-se altamente relevante para os negócios e tecnicamente viável.
 
 ### 4. Problemas/Desafios Atuais
 
 * **Dificuldade em adaptar currículos:** Candidatos não conseguem personalizar seus currículos para cada vaga, resultando em desalinhamento com as expectativas do recrutador e dos sistemas ATS.
 * **Rejeição por ATS:** Currículos bem intencionados, mas mal estruturados ou sem as palavras-chave certas, são reprovados por filtros automáticos, mesmo que o candidato tenha as qualificações necessárias.
 * **Falta de clareza no estudo:** Candidatos não sabem o que estudar ou quais competências priorizar para se destacar em processos seletivos específicos, levando a esforços de estudo dispersos e ineficientes.
-* **Longo tempo de preparo:** O processo de pesquisa de vagas, adaptação de currículo e estudo para entrevistas consome muito tempo dos candidatos.
+* **Longo tempo de preparo:** O processo de pesquisa de vagas, adaptação e melhoria de currículo e estudo para entrevistas consome muito tempo dos candidatos.
 
 ### 5. Oportunidades de IA Generativa
 
