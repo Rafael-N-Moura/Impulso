@@ -1,4 +1,4 @@
-# 🧠 Prompt Design Model Canvas – SmartCV AI
+# Prompt Design Model Canvas – SmartCV AI
 
 ## 1. Contexto da Interação
 
