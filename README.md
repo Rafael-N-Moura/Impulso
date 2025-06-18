@@ -16,7 +16,7 @@ SmartCV AI é uma aplicação web baseada em inteligência artificial cujo objet
 ## Estrutura Organizacional do Código
 
 ```text
-smartcv-ai/
+impuls.ai/
 ├── frontend/         # Interface do usuário (React)
 ├── backend/          # Lógica de negócio (Node.js + Python para IA)
 ├── ai-models/        # Scripts e modelos de IA (NLP, ajuste de currículo)
