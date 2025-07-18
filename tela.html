@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impulso - Seu Assistente de Carreira</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+
+        .accent-cyan {
+            color: #22d3ee;
+        }
+
+        .bg-accent-cyan {
+            background-color: #22d3ee;
+        }
+
+        .glass-card {
+            background: rgba(30, 41, 59, 0.5);
+            backdrop-filter: blur(12px);
+            border: 1px solid #334155;
+        }
+
+        .step-item.active .step-circle {
+            border-color: #22d3ee;
+            color: #22d3ee;
+        }
+
+        .step-item.active .step-text {
+            color: #f8fafc;
+        }
+
+        .file-upload-label {
+            border: 2px dashed #334155;
+            transition: all 0.3s ease;
+        }
+
+        .file-upload-label:hover {
+            border-color: #22d3ee;
+            background-color: #1e293b;
+        }
+
+        .loader {
+            border-top-color: #22d3ee;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <div id="app" class="w-full max-w-5xl mx-auto">
+
+        <!-- Tela 1: Upload -->
+        <div id="upload-screen" class="text-center">
+            <h1 class="text-5xl md:text-7xl font-black tracking-tighter">IMPULSO</h1>
+            <p class="text-xl md:text-2xl mt-2 font-light text-slate-300">Seu próximo passo de carreira, desenhado por
+                IA.</p>
+
+            <div class="mt-12 max-w-2xl mx-auto">
+                <div class="mb-6">
+                    <label for="cv-upload"
+                        class="file-upload-label cursor-pointer p-8 rounded-lg flex flex-col items-center justify-center">
+                        <i class="fa-solid fa-file-arrow-up text-4xl text-slate-400 mb-4"></i>
+                        <span id="file-name-display" class="text-lg text-slate-300">Clique para fazer o upload do seu
+                            currículo</span>
+                        <span class="text-sm text-slate-500 mt-1">(PDF ou DOCX)</span>
+                    </label>
+                    <input type="file" id="cv-upload" class="hidden">
+                </div>
+
+                <div class="mb-6">
+                    <input type="text" id="cargo-alvo"
+                        class="w-full bg-slate-800 border border-slate-700 rounded-lg p-4 text-lg text-center focus:ring-2 focus:ring-accent-cyan focus:outline-none"
+                        placeholder="Digite seu cargo alvo (ex: Desenvolvedor Sênior)">
+                </div>
+
+                <button id="analyze-btn"
+                    class="w-full bg-accent-cyan text-slate-900 font-bold text-xl py-4 rounded-lg hover:bg-cyan-500 transition-all disabled:opacity-50 disabled:cursor-not-allowed">
+                    Analisar Carreira
+                </button>
+            </div>
+        </div>
+
+        <!-- Tela 2: Análise em Progresso -->
+        <div id="loading-screen" class="hidden text-center">
+            <div class="loader w-16 h-16 rounded-full border-4 border-slate-700 mx-auto"></div>
+            <h2 class="text-3xl font-bold mt-8">Analisando seu perfil...</h2>
+            <p class="text-lg text-slate-400">Nossa IA está conectando os pontos. Isso pode levar alguns segundos.</p>
+
+            <div id="loading-steps" class="mt-12 text-left max-w-md mx-auto space-y-4">
+                <!-- Os passos serão adicionados aqui via JS -->
+            </div>
+        </div>
+
+        <!-- Tela 3: Resultados -->
+        <div id="results-screen" class="hidden">
+            <div class="text-center mb-12">
+                <h1 class="text-4xl md:text-5xl font-black">Seu Roadmap de Carreira</h1>
+                <p class="text-xl text-slate-300 mt-2">Análise para o cargo de: <span id="resultado-cargo"
+                        class="font-bold accent-cyan"></span></p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Coluna da Esquerda: Pontos Fortes e a Desenvolver -->
+                <div class="space-y-8">
+                    <!-- Card Pontos Fortes -->
+                    <div class="glass-card p-6 rounded-xl">
+                        <h3 class="text-2xl font-bold text-green-400 mb-4"><i
+                                class="fa-solid fa-check-circle mr-2"></i>Seus Pontos Fortes</h3>
+                        <ul id="pontos-fortes-lista" class="space-y-2 text-lg">
+                            <!-- Mock data será inserido aqui -->
+                        </ul>
+                    </div>
+                    <!-- Card Oportunidades -->
+                    <div class="glass-card p-6 rounded-xl">
+                        <h3 class="text-2xl font-bold text-yellow-400 mb-4"><i
+                                class="fa-solid fa-star mr-2"></i>Oportunidades de Desenvolvimento</h3>
+                        <ul id="oportunidades-lista" class="space-y-3 text-lg">
+                            <!-- Mock data será inserido aqui -->
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Coluna da Direita: Plano de Ação -->
+                <div class="glass-card p-6 rounded-xl bg-slate-800">
+                    <h3 class="text-2xl font-bold accent-cyan mb-4"><i class="fa-solid fa-graduation-cap mr-2"></i>Plano
+                        de Ação Sugerido</h3>
+                    <div id="plano-acao-lista" class="space-y-6">
+                        <!-- Mock data será inserido aqui -->
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-12">
+                <button id="restart-btn"
+                    class="bg-slate-700 hover:bg-slate-600 text-white font-bold text-lg py-3 px-8 rounded-lg transition-all">
+                    Analisar Outro Cargo
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Elementos da UI
+            const uploadScreen = document.getElementById('upload-screen');
+            const loadingScreen = document.getElementById('loading-screen');
+            const resultsScreen = document.getElementById('results-screen');
+
+            const cvUploadInput = document.getElementById('cv-upload');
+            const fileNameDisplay = document.getElementById('file-name-display');
+            const cargoAlvoInput = document.getElementById('cargo-alvo');
+            const analyzeBtn = document.getElementById('analyze-btn');
+            const restartBtn = document.getElementById('restart-btn');
+            const loadingStepsContainer = document.getElementById('loading-steps');
+
+            // Lógica de Upload de Arquivo
+            cvUploadInput.addEventListener('change', () => {
+                if (cvUploadInput.files.length > 0) {
+                    fileNameDisplay.textContent = cvUploadInput.files[0].name;
+                    fileNameDisplay.classList.add('accent-cyan');
+                } else {
+                    fileNameDisplay.textContent = 'Clique para fazer o upload do seu currículo';
+                    fileNameDisplay.classList.remove('accent-cyan');
+                }
+            });
+
+            // Lógica do Botão de Análise
+            analyzeBtn.addEventListener('click', () => {
+                // Validação simples
+                if (!cvUploadInput.files.length || !cargoAlvoInput.value) {
+                    alert('Por favor, faça o upload do seu currículo e insira o cargo desejado.');
+                    return;
+                }
+
+                // Inicia o fluxo de simulação
+                startLoadingFlow();
+            });
+
+            // Lógica do Botão de Reinício
+            restartBtn.addEventListener('click', () => {
+                // Reseta para a tela inicial
+                resultsScreen.classList.add('hidden');
+                uploadScreen.classList.remove('hidden');
+                cvUploadInput.value = ''; // Limpa o input de arquivo
+                cargoAlvoInput.value = '';
+                fileNameDisplay.textContent = 'Clique para fazer o upload do seu currículo';
+                fileNameDisplay.classList.remove('accent-cyan');
+            });
+
+            // Simulação do Fluxo de Análise
+            function startLoadingFlow() {
+                uploadScreen.classList.add('hidden');
+                loadingScreen.classList.remove('hidden');
+                loadingStepsContainer.innerHTML = ''; // Limpa os passos anteriores
+
+                const steps = [
+                    "Lendo seu currículo...",
+                    "Analisando o mercado de trabalho...",
+                    "Identificando suas competências-chave...",
+                    "Cruzando dados e identificando lacunas...",
+                    "Gerando seu roadmap personalizado..."
+                ];
+
+                let currentStep = 0;
+
+                const interval = setInterval(() => {
+                    if (currentStep < steps.length) {
+                        addLoadingStep(steps[currentStep]);
+                        currentStep++;
+                    } else {
+                        clearInterval(interval);
+                        // Transição para a tela de resultados
+                        setTimeout(() => {
+                            loadingScreen.classList.add('hidden');
+                            displayResults();
+                            resultsScreen.classList.remove('hidden');
+                        }, 1000);
+                    }
+                }, 1500); // Intervalo entre os passos da animação
+            }
+
+            function addLoadingStep(text) {
+                const stepDiv = document.createElement('div');
+                stepDiv.className = 'step-item flex items-center text-slate-400 transition-all duration-500';
+                stepDiv.innerHTML = `
+                    <div class="step-circle w-8 h-8 rounded-full border-2 border-slate-600 flex items-center justify-center mr-4">
+                        <i class="fa-solid fa-hourglass-half"></i>
+                    </div>
+                    <span class="step-text text-lg">${text}</span>
+                `;
+                loadingStepsContainer.appendChild(stepDiv);
+
+                // Anima a transição para "ativo"
+                setTimeout(() => {
+                    stepDiv.classList.add('active');
+                    const icon = stepDiv.querySelector('i');
+                    icon.classList.remove('fa-hourglass-half');
+                    icon.classList.add('fa-check');
+                }, 100);
+            }
+
+            // Função para exibir os resultados mockados
+            function displayResults() {
+                document.getElementById('resultado-cargo').textContent = cargoAlvoInput.value;
+
+                // Dados Mockados
+                const pontosFortes = [
+                    "Desenvolvimento Back-end (Node.js, Express)",
+                    "Bancos de Dados (SQL e NoSQL)",
+                    "Criação e Consumo de APIs RESTful",
+                    "Controle de Versão com Git"
+                ];
+
+                const oportunidades = [
+                    { skill: "Cloud Computing (AWS/Azure)", importancia: "Urgente", bg: "bg-red-500/30", text: "text-red-300" },
+                    { skill: "Arquitetura de Microsserviços", importancia: "Importante", bg: "bg-yellow-500/30", text: "text-yellow-300" },
+                    { skill: "Ferramentas de CI/CD (Jenkins, GitLab)", importancia: "Recomendado", bg: "bg-blue-500/30", text: "text-blue-300" },
+                    { skill: "Containerização com Docker & Kubernetes", importancia: "Importante", bg: "bg-yellow-500/30", text: "text-yellow-300" }
+                ];
+
+                const planoAcao = [
+                    {
+                        competencia: "Cloud Computing",
+                        passo: "Para se tornar competitivo, dominar a nuvem é essencial. A AWS é a líder de mercado.",
+                        sugestao: { nome: "Formação AWS Cloud Practitioner", plataforma: "Alura", url: "#" }
+                    },
+                    {
+                        competencia: "Microsserviços e Docker",
+                        passo: "Saber construir e escalar aplicações com microsserviços e containers é um grande diferencial para vagas sênior.",
+                        sugestao: { nome: "Docker for the Absolute Beginner", plataforma: "Udemy", url: "#" }
+                    }
+                ];
+
+                // Renderiza as listas
+                const pontosFortesLista = document.getElementById('pontos-fortes-lista');
+                pontosFortesLista.innerHTML = pontosFortes.map(skill => `<li><i class="fa-solid fa-star text-green-400 mr-3"></i>${skill}</li>`).join('');
+
+                const oportunidadesLista = document.getElementById('oportunidades-lista');
+                oportunidadesLista.innerHTML = oportunidades.map(op => `
+                    <li>
+                        <span class="font-bold">${op.skill}</span>
+                        <span class="text-sm font-bold ml-2 px-2 py-1 rounded-md ${op.bg} ${op.text}">${op.importancia}</span>
+                    </li>
+                `).join('');
+
+                const planoAcaoLista = document.getElementById('plano-acao-lista');
+                planoAcaoLista.innerHTML = planoAcao.map(item => `
+                    <div class="border-l-4 border-accent-cyan pl-4">
+                        <h4 class="text-xl font-bold">${item.competencia}</h4>
+                        <p class="text-slate-300 mt-1">${item.passo}</p>
+                        <div class="mt-3">
+                            <a href="${item.sugestao.url}" target="_blank" class="inline-block bg-slate-700 hover:bg-slate-600 text-accent-cyan font-bold py-2 px-4 rounded-lg transition-all">
+                                <i class="fa-solid fa-book-open-reader mr-2"></i>Ver curso: ${item.sugestao.nome} (${item.sugestao.plataforma})
+                            </a>
+                        </div>
+                    </div>
+                `).join('');
+            }
+        });
+    </script>
+</body>
+
+</html>

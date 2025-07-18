@@ -1,0 +1,422 @@
+[
+    {
+        "titulo_vaga": "Desenvolvedor(a) de Software Pleno (Back-end)",
+        "empresa": "InovaTech Solutions",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Estamos em busca de um Desenvolvedor de Software Pleno para se juntar à nossa equipe de produtos digitais. O candidato ideal terá sólida experiência no desenvolvimento de APIs RESTful robustas e escaláveis.\n\nResponsabilidades:\n- Projetar, desenvolver e manter APIs eficientes.\n- Colaborar com equipes de frontend, produto e design.\n- Escrever código limpo, testável e de fácil manutenção.\n- Participar de revisões de código e discussões de arquitetura.\n\nRequisitos:\n- 3+ anos de experiência com Node.js e Express.\n- Proficiência em JavaScript e TypeScript.\n- Sólidos conhecimentos em bancos de dados SQL (PostgreSQL) e NoSQL (MongoDB).\n- Experiência com controle de versão (Git).\n- Conhecimento em testes automatizados (Jest).\n\nCompetências Desejáveis:\n- Experiência com Docker.\n- Conhecimento básico em provedores de nuvem (AWS ou Azure).\n- Familiaridade com metodologias ágeis (Scrum).",
+        "url_vaga": "https://example.com/vaga/1"
+    },
+    {
+        "titulo_vaga": "Engenheiro(a) de Software Pleno",
+        "empresa": "Porto Digital Labs",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "O Porto Digital Labs está contratando um Engenheiro de Software Pleno para trabalhar em projetos de inovação para o ecossistema local. Buscamos um perfil proativo e com paixão por resolver problemas complexos.\n\nResponsabilidades:\n- Atuar no ciclo de vida completo do desenvolvimento de software.\n- Desenvolver soluções full-stack, do banco de dados à interface do usuário.\n- Pesquisar e prototipar novas tecnologias.\n\nRequisitos:\n- Experiência comprovada em Java com Spring Boot.\n- Conhecimento em desenvolvimento frontend com React ou Angular.\n- Proficiência em SQL e modelagem de dados.\n- Experiência com Git e GitHub.\n- Excelente comunicação e habilidade para trabalho em equipe.\n\nCompetências Desejáveis:\n- Conhecimento em arquitetura de microsserviços.\n- Experiência com CI/CD (Jenkins, GitLab CI).\n- Inglês intermediário para leitura técnica.",
+        "url_vaga": "https://example.com/vaga/2"
+    },
+    {
+        "titulo_vaga": "Pessoa Desenvolvedora Pleno (Foco em Frontend)",
+        "empresa": "Recife Software House",
+        "localizacao": "Remoto | Escritório em Recife, PE",
+        "descricao_completa": "Nossa software house está crescendo e buscamos um desenvolvedor(a) pleno com forte foco em frontend para criar interfaces incríveis para nossos clientes.\n\nO que você vai fazer:\n- Traduzir protótipos (Figma) em componentes React funcionais e reutilizáveis.\n- Garantir a performance e a responsividade das nossas aplicações web.\n- Consumir APIs RESTful e colaborar com a equipe de back-end.\n- Manter a qualidade do código e a cobertura de testes.\n\nO que você precisa ter:\n- Pelo menos 3 anos de experiência com React.js.\n- Domínio de HTML5, CSS3, e pré-processadores como SASS.\n- Experiência com state management (Redux ou Context API).\n- Habilidade em escrever testes unitários e de integração para componentes.\n- Familiaridade com Git.\n\nO que nos impressionaria:\n- Conhecimento em Next.js.\n- Experiência com Design Systems.\n- Noções de back-end com Node.js.",
+        "url_vaga": "https://example.com/vaga/3"
+    },
+    {
+        "titulo_vaga": "Analista Desenvolvedor Pleno (.NET)",
+        "empresa": "HealthTech PE",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Somos uma HealthTech em ascensão e buscamos um desenvolvedor .NET para fortalecer nossa equipe. Você trabalhará em um sistema crítico para a área da saúde, impactando milhares de vidas.\n\nSuas responsabilidades:\n- Desenvolver e dar manutenção em sistemas web usando a plataforma .NET.\n- Criar serviços e integrações com outros sistemas.\n- Trabalhar com o banco de dados SQL Server para garantir a integridade dos dados.\n\nRequisitos Essenciais:\n- Experiência sólida com C# e ASP.NET Core.\n- Proficiência em T-SQL (SQL Server).\n- Experiência com Entity Framework.\n- Conhecimento de Git.\n- Proatividade e capacidade de trabalhar em equipe.\n\nSeria um diferencial:\n- Experiência com desenvolvimento em nuvem (Azure).\n- Conhecimento em Docker e Kubernetes.\n- Familiaridade com o setor de saúde.",
+        "url_vaga": "https://example.com/vaga/4"
+    },
+    {
+        "titulo_vaga": "Software Developer (Pleno, Python)",
+        "empresa": "Global AI Corp",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Nossa multinacional está expandindo sua equipe de IA no Recife. Buscamos um desenvolvedor Python pleno para trabalhar em nossos modelos e pipelines de dados.\n\nFunções:\n- Desenvolver APIs e serviços em Python para suportar nossas soluções de Machine Learning.\n- Otimizar e manter pipelines de dados.\n- Colaborar com cientistas de dados e engenheiros de ML.\n\nQualificações:\n- Forte experiência em Python (Django ou FastAPI).\n- Experiência com bancos de dados relacionais e não relacionais.\n- Conhecimento prático de Git.\n- Habilidades de comunicação e resolução de problemas.\n- Inglês avançado é mandatório para comunicação com a equipe global.\n\nBônus:\n- Experiência com Docker e orquestração de containers.\n- Conhecimento em cloud (AWS S3, EC2, Lambda).\n- Familiaridade com bibliotecas de Data Science (Pandas, NumPy).",
+        "url_vaga": "https://example.com/vaga/5"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Android Pleno (Kotlin)",
+        "empresa": "MobileFirst Apps",
+        "localizacao": "Remoto",
+        "descricao_completa": "Junte-se à nossa equipe 100% remota e ajude a construir aplicativos Android nativos que são usados por milhões de pessoas.\n\nRequisitos:\n- Experiência sólida com desenvolvimento Android nativo usando Kotlin.\n- Conhecimento profundo do Android SDK e do ecossistema Android.\n- Experiência com arquiteturas modernas (MVVM, Clean Architecture).\n- Familiaridade com bibliotecas como Retrofit, Coroutines, e Jetpack Compose.\n- Experiência com Git.\n\nDiferenciais:\n- Publicação de apps na Google Play Store.\n- Experiência com testes automatizados (Espresso, JUnit).",
+        "url_vaga": "https://example.com/vaga/6"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor iOS Pleno (Swift)",
+        "empresa": "iDev Brasil",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Procuramos um desenvolvedor iOS talentoso para criar experiências incríveis para a plataforma Apple.\n\nRequisitos:\n- Proficiência em Swift e no ecossistema de desenvolvimento da Apple (Xcode, iOS SDK).\n- Experiência com frameworks como UIKit e SwiftUI.\n- Conhecimento de padrões de design como MVC e MVVM.\n- Experiência com consumo de APIs REST.\n- Uso de Git para controle de versão.\n\nDiferenciais:\n- Conhecimento de Objective-C.\n- Experiência com Core Data ou Realm.",
+        "url_vaga": "https://example.com/vaga/7"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Dados Pleno",
+        "empresa": "DataDriven Bank",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Nosso banco digital está em busca de um Engenheiro de Dados para construir e manter nossos pipelines de dados, garantindo que nossas decisões sejam sempre baseadas em informações de qualidade.\n\nRequisitos:\n- Experiência com linguagens como Python ou Scala.\n- Conhecimento em ferramentas de ETL/ELT e orquestração de workflows (ex: Apache Airflow).\n- Experiência com ecossistema Big Data (Spark, Hadoop).\n- Proficiência em SQL.\n- Experiência com bancos de dados colunares (ex: Redshift, BigQuery).\n\nDiferenciais:\n- Conhecimento em plataformas de nuvem (AWS, GCP, Azure).\n- Familiaridade com ferramentas de streaming de dados (Kafka, Kinesis).",
+        "url_vaga": "https://example.com/vaga/8"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Full-Stack Pleno (React & Node.js)",
+        "empresa": "Startup Visionária",
+        "localizacao": "Remoto",
+        "descricao_completa": "Seja um dos primeiros desenvolvedores de uma startup com potencial global. Buscamos um perfil full-stack que seja apaixonado por construir produtos do zero.\n\nRequisitos:\n- Experiência com React.js no frontend.\n- Experiência com Node.js e TypeScript no backend.\n- Conhecimento em GraphQL.\n- Experiência com bancos de dados como PostgreSQL.\n- Familiaridade com Git e metodologias ágeis.\n\nDiferenciais:\n- Experiência com Next.js.\n- Conhecimentos em Docker e Kubernetes.",
+        "url_vaga": "https://example.com/vaga/9"
+    },
+    {
+        "titulo_vaga": "Engenheiro de DevOps/SRE Pleno",
+        "empresa": "CloudScale Services",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Ajude nossos clientes a construir e manter infraestruturas na nuvem que sejam escaláveis, confiáveis e seguras.\n\nRequisitos:\n- Experiência com provedores de nuvem (AWS é mandatório).\n- Proficiência em ferramentas de Infraestrutura como Código (Terraform, CloudFormation).\n- Experiência com sistemas de CI/CD (Jenkins, GitLab CI, GitHub Actions).\n- Conhecimento em containerização (Docker) e orquestração (Kubernetes).\n- Habilidade em scripting (Bash, Python).\n\nDiferenciais:\n- Certificações AWS.\n- Experiência com ferramentas de monitoramento (Prometheus, Grafana, Datadog).",
+        "url_vaga": "https://example.com/vaga/10"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Software Pleno - Ruby on Rails",
+        "empresa": "Agile Solutions",
+        "localizacao": "Remoto",
+        "descricao_completa": "Somos uma consultoria que ama Ruby on Rails. Se você compartilha dessa paixão, venha fazer parte da nossa equipe!\n\nRequisitos:\n- Sólida experiência com Ruby on Rails.\n- Proficiência em Ruby.\n- Conhecimento em bancos de dados (PostgreSQL, MySQL).\n- Experiência com testes (RSpec).\n- Familiaridade com Git e práticas de desenvolvimento ágil.\n\nDiferenciais:\n- Experiência com frontend (JavaScript, Hotwire, Stimulus).\n- Conhecimento em Sidekiq para processamento em background.",
+        "url_vaga": "https://example.com/vaga/11"
+    },
+    {
+        "titulo_vaga": "Analista de QA / Automação de Testes Pleno",
+        "empresa": "QualityFirst Tech",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Garantir a qualidade do nosso software é sua missão. Buscamos um analista de QA com foco em automação para nos ajudar a entregar produtos impecáveis.\n\nRequisitos:\n- Experiência na criação e manutenção de scripts de automação de testes.\n- Conhecimento em ferramentas como Selenium, Cypress ou Playwright.\n- Experiência com testes de API (Postman, Insomnia).\n- Lógica de programação (preferencialmente em JavaScript ou Python).\n- Conhecimento em Git.\n\nDiferenciais:\n- Experiência com testes de performance (JMeter, Gatling).\n- Certificação em testes (ex: CTFL).",
+        "url_vaga": "https://example.com/vaga/12"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Pleno (PHP/Laravel)",
+        "empresa": "WebDev Masters",
+        "localizacao": "Remoto",
+        "descricao_completa": "Procuramos um desenvolvedor PHP experiente para trabalhar em projetos desafiadores usando o framework Laravel.\n\nRequisitos:\n- Forte experiência com PHP 8+ e o framework Laravel.\n- Conhecimento em MySQL.\n- Experiência com desenvolvimento de APIs REST.\n- Familiaridade com Git e Composer.\n- Conhecimentos em frontend (HTML, CSS, JavaScript).\n\nDiferenciais:\n- Experiência com Vue.js.\n- Conhecimento em Docker.",
+        "url_vaga": "https://example.com/vaga/13"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Jogos Pleno (Unity)",
+        "empresa": "Recife Game Studio",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Paixão por jogos? Venha criar mundos e experiências incríveis em nosso estúdio!\n\nRequisitos:\n- Experiência profissional com a engine Unity e a linguagem C#.\n- Sólidos conhecimentos de lógica de programação e arquitetura de software para jogos.\n- Experiência com Git.\n- Habilidade de trabalhar em equipe com artistas e designers.\n\nDiferenciais:\n- Experiência com shaders e otimização de performance.\n- Portfólio com jogos publicados.",
+        "url_vaga": "https://example.com/vaga/14"
+    },
+    {
+        "titulo_vaga": "Arquiteto de Soluções Pleno",
+        "empresa": "Enterprise Systems",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Buscamos um profissional com visão sistêmica para desenhar a arquitetura de soluções complexas para nossos clientes corporativos.\n\nRequisitos:\n- Experiência prévia como desenvolvedor sênior ou arquiteto.\n- Conhecimento profundo em padrões de arquitetura (microsserviços, event-driven, etc.).\n- Experiência com modelagem de dados e design de APIs.\n- Conhecimento em plataformas de nuvem (AWS, Azure ou GCP).\n- Excelente comunicação e habilidade de negociação.\n\nDiferenciais:\n- Certificações em arquitetura de nuvem.\n- Experiência em múltiplos paradigmas de programação.",
+        "url_vaga": "https://example.com/vaga/15"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Salesforce Pleno",
+        "empresa": "Cloud CRM Experts",
+        "localizacao": "Remoto",
+        "descricao_completa": "Se você é especialista na plataforma Salesforce, temos uma oportunidade para você em nossa consultoria.\n\nRequisitos:\n- Experiência com desenvolvimento na plataforma Salesforce (Apex, Visualforce, Lightning Web Components).\n- Conhecimento em SOQL e SOSL.\n- Experiência com integrações via API.\n- Certificação Salesforce Platform Developer I.\n\nDiferenciais:\n- Certificações adicionais Salesforce.\n- Experiência com Salesforce DX e CI/CD.",
+        "url_vaga": "https://example.com/vaga/16"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Machine Learning Pleno",
+        "empresa": "Predictive Models Inc.",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Trabalhe na fronteira da inteligência artificial, colocando modelos de machine learning em produção.\n\nRequisitos:\n- Experiência em Python e bibliotecas de ML (Scikit-learn, TensorFlow, PyTorch).\n- Conhecimento em todo o ciclo de vida de um modelo de ML (treinamento, avaliação, deploy, monitoramento).\n- Experiência com SQL.\n- Conhecimento em Git.\n\nDiferenciais:\n- Experiência com MLOps.\n- Conhecimento em plataformas de nuvem (AWS SageMaker, Google AI Platform).",
+        "url_vaga": "https://example.com/vaga/17"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Pleno - Golang",
+        "empresa": "High Performance Systems",
+        "localizacao": "Remoto",
+        "descricao_completa": "Buscamos um desenvolvedor Go (Golang) para construir sistemas de alta performance e concorrência.\n\nRequisitos:\n- Experiência profissional com Go.\n- Conhecimento em concorrência (goroutines, channels).\n- Experiência na construção de APIs gRPC e REST.\n- Familiaridade com Docker e Kubernetes.\n- Conhecimento em Git.\n\nDiferenciais:\n- Contribuições para projetos open-source.\n- Experiência com Prometheus e Grafana.",
+        "url_vaga": "https://example.com/vaga/18"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor WordPress Pleno",
+        "empresa": "Agência Digital Criativa",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Somos uma agência digital e precisamos de um especialista em WordPress para desenvolver temas e plugins customizados para nossos clientes.\n\nRequisitos:\n- Profundo conhecimento em PHP, HTML, CSS e JavaScript.\n- Experiência no desenvolvimento de temas e plugins WordPress do zero.\n- Conhecimento em MySQL.\n- Experiência com Git.\n\nDiferenciais:\n- Experiência com construtores de página como Elementor ou WPBakery.\n- Conhecimento em WooCommerce.",
+        "url_vaga": "https://example.com/vaga/19"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Full-Stack Pleno (Python/Django + Vue.js)",
+        "empresa": "EdTech Inovadora",
+        "localizacao": "Remoto",
+        "descricao_completa": "Venha revolucionar a educação conosco! Buscamos um desenvolvedor full-stack para nossa plataforma de e-learning.\n\nRequisitos:\n- Experiência com Python e Django (ou Django REST Framework) no backend.\n- Experiência com Vue.js no frontend.\n- Conhecimento em PostgreSQL.\n- Experiência com Git e práticas de desenvolvimento ágil.\n\nDiferenciais:\n- Experiência com Celery para tarefas assíncronas.\n- Conhecimento em Docker e deploy na nuvem.",
+        "url_vaga": "https://example.com/vaga/20"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor(a) de Software Pleno (Back-end)",
+        "empresa": "InovaTech Solutions",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Estamos em busca de um Desenvolvedor de Software Pleno para se juntar à nossa equipe de produtos digitais. O candidato ideal terá sólida experiência no desenvolvimento de APIs RESTful robustas e escaláveis.\n\nResponsabilidades:\n- Projetar, desenvolver e manter APIs eficientes.\n- Colaborar com equipes de frontend, produto e design.\n- Escrever código limpo, testável e de fácil manutenção.\n- Participar de revisões de código e discussões de arquitetura.\n\nRequisitos:\n- 3+ anos de experiência com Node.js e Express.\n- Proficiência em JavaScript e TypeScript.\n- Sólidos conhecimentos em bancos de dados SQL (PostgreSQL) e NoSQL (MongoDB).\n- Experiência com controle de versão (Git).\n- Conhecimento em testes automatizados (Jest).\n\nCompetências Desejáveis:\n- Experiência com Docker.\n- Conhecimento básico em provedores de nuvem (AWS ou Azure).\n- Familiaridade com metodologias ágeis (Scrum).",
+        "url_vaga": "https://example.com/vaga/1"
+    },
+    {
+        "titulo_vaga": "Engenheiro(a) de Software Pleno",
+        "empresa": "Porto Digital Labs",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "O Porto Digital Labs está contratando um Engenheiro de Software Pleno para trabalhar em projetos de inovação para o ecossistema local. Buscamos um perfil proativo e com paixão por resolver problemas complexos.\n\nResponsabilidades:\n- Atuar no ciclo de vida completo do desenvolvimento de software.\n- Desenvolver soluções full-stack, do banco de dados à interface do usuário.\n- Pesquisar e prototipar novas tecnologias.\n\nRequisitos:\n- Experiência comprovada em Java com Spring Boot.\n- Conhecimento em desenvolvimento frontend com React ou Angular.\n- Proficiência em SQL e modelagem de dados.\n- Experiência com Git e GitHub.\n- Excelente comunicação e habilidade para trabalho em equipe.\n\nCompetências Desejáveis:\n- Conhecimento em arquitetura de microsserviços.\n- Experiência com CI/CD (Jenkins, GitLab CI).\n- Inglês intermediário para leitura técnica.",
+        "url_vaga": "https://example.com/vaga/2"
+    },
+    {
+        "titulo_vaga": "Pessoa Desenvolvedora Pleno (Foco em Frontend)",
+        "empresa": "Recife Software House",
+        "localizacao": "Remoto | Escritório em Recife, PE",
+        "descricao_completa": "Nossa software house está crescendo e buscamos um desenvolvedor(a) pleno com forte foco em frontend para criar interfaces incríveis para nossos clientes.\n\nO que você vai fazer:\n- Traduzir protótipos (Figma) em componentes React funcionais e reutilizáveis.\n- Garantir a performance e a responsividade das nossas aplicações web.\n- Consumir APIs RESTful e colaborar com a equipe de back-end.\n- Manter a qualidade do código e a cobertura de testes.\n\nO que você precisa ter:\n- Pelo menos 3 anos de experiência com React.js.\n- Domínio de HTML5, CSS3, e pré-processadores como SASS.\n- Experiência com state management (Redux ou Context API).\n- Habilidade em escrever testes unitários e de integração para componentes.\n- Familiaridade com Git.\n\nO que nos impressionaria:\n- Conhecimento em Next.js.\n- Experiência com Design Systems.\n- Noções de back-end com Node.js.",
+        "url_vaga": "https://example.com/vaga/3"
+    },
+    {
+        "titulo_vaga": "Analista Desenvolvedor Pleno (.NET)",
+        "empresa": "HealthTech PE",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Somos uma HealthTech em ascensão e buscamos um desenvolvedor .NET para fortalecer nossa equipe. Você trabalhará em um sistema crítico para a área da saúde, impactando milhares de vidas.\n\nSuas responsabilidades:\n- Desenvolver e dar manutenção em sistemas web usando a plataforma .NET.\n- Criar serviços e integrações com outros sistemas.\n- Trabalhar com o banco de dados SQL Server para garantir a integridade dos dados.\n\nRequisitos Essenciais:\n- Experiência sólida com C# e ASP.NET Core.\n- Proficiência em T-SQL (SQL Server).\n- Experiência com Entity Framework.\n- Conhecimento de Git.\n- Proatividade e capacidade de trabalhar em equipe.\n\nSeria um diferencial:\n- Experiência com desenvolvimento em nuvem (Azure).\n- Conhecimento em Docker e Kubernetes.\n- Familiaridade com o setor de saúde.",
+        "url_vaga": "https://example.com/vaga/4"
+    },
+    {
+        "titulo_vaga": "Software Developer (Pleno, Python)",
+        "empresa": "Global AI Corp",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Nossa multinacional está expandindo sua equipe de IA no Recife. Buscamos um desenvolvedor Python pleno para trabalhar em nossos modelos e pipelines de dados.\n\nFunções:\n- Desenvolver APIs e serviços em Python para suportar nossas soluções de Machine Learning.\n- Otimizar e manter pipelines de dados.\n- Colaborar com cientistas de dados e engenheiros de ML.\n\nQualificações:\n- Forte experiência em Python (Django ou FastAPI).\n- Experiência com bancos de dados relacionais e não relacionais.\n- Conhecimento prático de Git.\n- Habilidades de comunicação e resolução de problemas.\n- Inglês avançado é mandatório para comunicação com a equipe global.\n\nBônus:\n- Experiência com Docker e orquestração de containers.\n- Conhecimento em cloud (AWS S3, EC2, Lambda).\n- Familiaridade com bibliotecas de Data Science (Pandas, NumPy).",
+        "url_vaga": "https://example.com/vaga/5"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Android Pleno (Kotlin)",
+        "empresa": "MobileFirst Apps",
+        "localizacao": "Remoto",
+        "descricao_completa": "Junte-se à nossa equipe 100% remota e ajude a construir aplicativos Android nativos que são usados por milhões de pessoas.\n\nRequisitos:\n- Experiência sólida com desenvolvimento Android nativo usando Kotlin.\n- Conhecimento profundo do Android SDK e do ecossistema Android.\n- Experiência com arquiteturas modernas (MVVM, Clean Architecture).\n- Familiaridade com bibliotecas como Retrofit, Coroutines, e Jetpack Compose.\n- Experiência com Git.\n\nDiferenciais:\n- Publicação de apps na Google Play Store.\n- Experiência com testes automatizados (Espresso, JUnit).",
+        "url_vaga": "https://example.com/vaga/6"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor iOS Pleno (Swift)",
+        "empresa": "iDev Brasil",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Procuramos um desenvolvedor iOS talentoso para criar experiências incríveis para a plataforma Apple.\n\nRequisitos:\n- Proficiência em Swift e no ecossistema de desenvolvimento da Apple (Xcode, iOS SDK).\n- Experiência com frameworks como UIKit e SwiftUI.\n- Conhecimento de padrões de design como MVC e MVVM.\n- Experiência com consumo de APIs REST.\n- Uso de Git para controle de versão.\n\nDiferenciais:\n- Conhecimento de Objective-C.\n- Experiência com Core Data ou Realm.",
+        "url_vaga": "https://example.com/vaga/7"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Dados Pleno",
+        "empresa": "DataDriven Bank",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Nosso banco digital está em busca de um Engenheiro de Dados para construir e manter nossos pipelines de dados, garantindo que nossas decisões sejam sempre baseadas em informações de qualidade.\n\nRequisitos:\n- Experiência com linguagens como Python ou Scala.\n- Conhecimento em ferramentas de ETL/ELT e orquestração de workflows (ex: Apache Airflow).\n- Experiência com ecossistema Big Data (Spark, Hadoop).\n- Proficiência em SQL.\n- Experiência com bancos de dados colunares (ex: Redshift, BigQuery).\n\nDiferenciais:\n- Conhecimento em plataformas de nuvem (AWS, GCP, Azure).\n- Familiaridade com ferramentas de streaming de dados (Kafka, Kinesis).",
+        "url_vaga": "https://example.com/vaga/8"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Full-Stack Pleno (React & Node.js)",
+        "empresa": "Startup Visionária",
+        "localizacao": "Remoto",
+        "descricao_completa": "Seja um dos primeiros desenvolvedores de uma startup com potencial global. Buscamos um perfil full-stack que seja apaixonado por construir produtos do zero.\n\nRequisitos:\n- Experiência com React.js no frontend.\n- Experiência com Node.js e TypeScript no backend.\n- Conhecimento em GraphQL.\n- Experiência com bancos de dados como PostgreSQL.\n- Familiaridade com Git e metodologias ágeis.\n\nDiferenciais:\n- Experiência com Next.js.\n- Conhecimentos em Docker e Kubernetes.",
+        "url_vaga": "https://example.com/vaga/9"
+    },
+    {
+        "titulo_vaga": "Engenheiro de DevOps/SRE Pleno",
+        "empresa": "CloudScale Services",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Ajude nossos clientes a construir e manter infraestruturas na nuvem que sejam escaláveis, confiáveis e seguras.\n\nRequisitos:\n- Experiência com provedores de nuvem (AWS é mandatório).\n- Proficiência em ferramentas de Infraestrutura como Código (Terraform, CloudFormation).\n- Experiência com sistemas de CI/CD (Jenkins, GitLab CI, GitHub Actions).\n- Conhecimento em containerização (Docker) e orquestração (Kubernetes).\n- Habilidade em scripting (Bash, Python).\n\nDiferenciais:\n- Certificações AWS.\n- Experiência com ferramentas de monitoramento (Prometheus, Grafana, Datadog).",
+        "url_vaga": "https://example.com/vaga/10"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Software Pleno - Ruby on Rails",
+        "empresa": "Agile Solutions",
+        "localizacao": "Remoto",
+        "descricao_completa": "Somos uma consultoria que ama Ruby on Rails. Se você compartilha dessa paixão, venha fazer parte da nossa equipe!\n\nRequisitos:\n- Sólida experiência com Ruby on Rails.\n- Proficiência em Ruby.\n- Conhecimento em bancos de dados (PostgreSQL, MySQL).\n- Experiência com testes (RSpec).\n- Familiaridade com Git e práticas de desenvolvimento ágil.\n\nDiferenciais:\n- Experiência com frontend (JavaScript, Hotwire, Stimulus).\n- Conhecimento em Sidekiq para processamento em background.",
+        "url_vaga": "https://example.com/vaga/11"
+    },
+    {
+        "titulo_vaga": "Analista de QA / Automação de Testes Pleno",
+        "empresa": "QualityFirst Tech",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Garantir a qualidade do nosso software é sua missão. Buscamos um analista de QA com foco em automação para nos ajudar a entregar produtos impecáveis.\n\nRequisitos:\n- Experiência na criação e manutenção de scripts de automação de testes.\n- Conhecimento em ferramentas como Selenium, Cypress ou Playwright.\n- Experiência com testes de API (Postman, Insomnia).\n- Lógica de programação (preferencialmente em JavaScript ou Python).\n- Conhecimento em Git.\n\nDiferenciais:\n- Experiência com testes de performance (JMeter, Gatling).\n- Certificação em testes (ex: CTFL).",
+        "url_vaga": "https://example.com/vaga/12"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Pleno (PHP/Laravel)",
+        "empresa": "WebDev Masters",
+        "localizacao": "Remoto",
+        "descricao_completa": "Procuramos um desenvolvedor PHP experiente para trabalhar em projetos desafiadores usando o framework Laravel.\n\nRequisitos:\n- Forte experiência com PHP 8+ e o framework Laravel.\n- Conhecimento em MySQL.\n- Experiência com desenvolvimento de APIs REST.\n- Familiaridade com Git e Composer.\n- Conhecimentos em frontend (HTML, CSS, JavaScript).\n\nDiferenciais:\n- Experiência com Vue.js.\n- Conhecimento em Docker.",
+        "url_vaga": "https://example.com/vaga/13"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Jogos Pleno (Unity)",
+        "empresa": "Recife Game Studio",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Paixão por jogos? Venha criar mundos e experiências incríveis em nosso estúdio!\n\nRequisitos:\n- Experiência profissional com a engine Unity e a linguagem C#.\n- Sólidos conhecimentos de lógica de programação e arquitetura de software para jogos.\n- Experiência com Git.\n- Habilidade de trabalhar em equipe com artistas e designers.\n\nDiferenciais:\n- Experiência com shaders e otimização de performance.\n- Portfólio com jogos publicados.",
+        "url_vaga": "https://example.com/vaga/14"
+    },
+    {
+        "titulo_vaga": "Arquiteto de Soluções Pleno",
+        "empresa": "Enterprise Systems",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Buscamos um profissional com visão sistêmica para desenhar a arquitetura de soluções complexas para nossos clientes corporativos.\n\nRequisitos:\n- Experiência prévia como desenvolvedor sênior ou arquiteto.\n- Conhecimento profundo em padrões de arquitetura (microsserviços, event-driven, etc.).\n- Experiência com modelagem de dados e design de APIs.\n- Conhecimento em plataformas de nuvem (AWS, Azure ou GCP).\n- Excelente comunicação e habilidade de negociação.\n\nDiferenciais:\n- Certificações em arquitetura de nuvem.\n- Experiência em múltiplos paradigmas de programação.",
+        "url_vaga": "https://example.com/vaga/15"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Salesforce Pleno",
+        "empresa": "Cloud CRM Experts",
+        "localizacao": "Remoto",
+        "descricao_completa": "Se você é especialista na plataforma Salesforce, temos uma oportunidade para você em nossa consultoria.\n\nRequisitos:\n- Experiência com desenvolvimento na plataforma Salesforce (Apex, Visualforce, Lightning Web Components).\n- Conhecimento em SOQL e SOSL.\n- Experiência com integrações via API.\n- Certificação Salesforce Platform Developer I.\n\nDiferenciais:\n- Certificações adicionais Salesforce.\n- Experiência com Salesforce DX e CI/CD.",
+        "url_vaga": "https://example.com/vaga/16"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Machine Learning Pleno",
+        "empresa": "Predictive Models Inc.",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Trabalhe na fronteira da inteligência artificial, colocando modelos de machine learning em produção.\n\nRequisitos:\n- Experiência em Python e bibliotecas de ML (Scikit-learn, TensorFlow, PyTorch).\n- Conhecimento em todo o ciclo de vida de um modelo de ML (treinamento, avaliação, deploy, monitoramento).\n- Experiência com SQL.\n- Conhecimento em Git.\n\nDiferenciais:\n- Experiência com MLOps.\n- Conhecimento em plataformas de nuvem (AWS SageMaker, Google AI Platform).",
+        "url_vaga": "https://example.com/vaga/17"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Pleno - Golang",
+        "empresa": "High Performance Systems",
+        "localizacao": "Remoto",
+        "descricao_completa": "Buscamos um desenvolvedor Go (Golang) para construir sistemas de alta performance e concorrência.\n\nRequisitos:\n- Experiência profissional com Go.\n- Conhecimento em concorrência (goroutines, channels).\n- Experiência na construção de APIs gRPC e REST.\n- Familiaridade com Docker e Kubernetes.\n- Conhecimento em Git.\n\nDiferenciais:\n- Contribuições para projetos open-source.\n- Experiência com Prometheus e Grafana.",
+        "url_vaga": "https://example.com/vaga/18"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor WordPress Pleno",
+        "empresa": "Agência Digital Criativa",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Somos uma agência digital e precisamos de um especialista em WordPress para desenvolver temas e plugins customizados para nossos clientes.\n\nRequisitos:\n- Profundo conhecimento em PHP, HTML, CSS e JavaScript.\n- Experiência no desenvolvimento de temas e plugins WordPress do zero.\n- Conhecimento em MySQL.\n- Experiência com Git.\n\nDiferenciais:\n- Experiência com construtores de página como Elementor ou WPBakery.\n- Conhecimento em WooCommerce.",
+        "url_vaga": "https://example.com/vaga/19"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Full-Stack Pleno (Python/Django + Vue.js)",
+        "empresa": "EdTech Inovadora",
+        "localizacao": "Remoto",
+        "descricao_completa": "Venha revolucionar a educação conosco! Buscamos um desenvolvedor full-stack para nossa plataforma de e-learning.\n\nRequisitos:\n- Experiência com Python e Django (ou Django REST Framework) no backend.\n- Experiência com Vue.js no frontend.\n- Conhecimento em PostgreSQL.\n- Experiência com Git e práticas de desenvolvimento ágil.\n\nDiferenciais:\n- Experiência com Celery para tarefas assíncronas.\n- Conhecimento em Docker e deploy na nuvem.",
+        "url_vaga": "https://example.com/vaga/20"
+    },
+    {
+        "titulo_vaga": "Cientista de Dados Pleno",
+        "empresa": "Analytics House",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Procuramos um Cientista de Dados Pleno para transformar dados brutos em insights de negócio acionáveis. Você trabalhará com modelagem estatística, machine learning e visualização de dados.\n\nRequisitos:\n- Experiência com Python (Pandas, Scikit-learn, Matplotlib).\n- Sólidos conhecimentos em estatística e algoritmos de machine learning.\n- Proficiência em SQL.\n- Experiência com ferramentas de visualização como Tableau ou Power BI.\n- Habilidade de comunicar resultados complexos de forma simples.\n\nDiferenciais:\n- Experiência com deep learning (TensorFlow, PyTorch).\n- Conhecimento em A/B testing.",
+        "url_vaga": "https://example.com/vaga/21"
+    },
+    {
+        "titulo_vaga": "Product Manager Pleno (Técnico)",
+        "empresa": "Product First Co.",
+        "localizacao": "Remoto",
+        "descricao_completa": "Buscamos um Gerente de Produto com background técnico para liderar o roadmap de um dos nossos produtos de software. Você será a ponte entre as áreas de negócio, design e engenharia.\n\nRequisitos:\n- Experiência prévia como Product Manager ou em um cargo técnico (ex: desenvolvedor).\n- Habilidade de escrever especificações funcionais claras (user stories).\n- Conhecimento em metodologias ágeis (Scrum, Kanban).\n- Experiência com ferramentas como Jira e Confluence.\n- Excelente comunicação e capacidade de liderança.\n\nDiferenciais:\n- Experiência com produtos B2B SaaS.\n- Conhecimento em análise de dados e métricas de produto.",
+        "url_vaga": "https://example.com/vaga/22"
+    },
+    {
+        "titulo_vaga": "UX/UI Designer Pleno",
+        "empresa": "Design Centric Studio",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Se você é apaixonado por criar experiências de usuário intuitivas e interfaces visualmente incríveis, essa vaga é para você. Junte-se ao nosso time para projetar o futuro dos nossos produtos digitais.\n\nRequisitos:\n- Portfólio sólido demonstrando experiência em UX e UI design.\n- Proficiência em ferramentas de design e prototipação (Figma, Sketch, Adobe XD).\n- Experiência com pesquisa de usuário, testes de usabilidade e criação de personas e jornadas.\n- Conhecimento em design systems.\n\nDiferenciais:\n- Noções de HTML/CSS.\n- Experiência com design de produtos para plataformas mobile.",
+        "url_vaga": "https://example.com/vaga/23"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Segurança da Informação Pleno (AppSec)",
+        "empresa": "SecureBank",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Proteja nossos ativos digitais! Buscamos um Engenheiro de Segurança com foco em segurança de aplicações para identificar e mitigar vulnerabilidades em nosso software.\n\nRequisitos:\n- Experiência com análise de vulnerabilidades em aplicações web (OWASP Top 10).\n- Conhecimento em ferramentas de SAST/DAST.\n- Experiência com code review de segurança.\n- Conhecimento em Git e esteiras de CI/CD (DevSecOps).\n- Scripting em Python ou Bash.\n\nDiferenciais:\n- Certificações de segurança (ex: CEH, Security+).\n- Experiência com segurança em nuvem (AWS, Azure).",
+        "url_vaga": "https://example.com/vaga/24"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Mobile Pleno (Flutter)",
+        "empresa": "Cross-Platform Experts",
+        "localizacao": "Remoto",
+        "descricao_completa": "Construa aplicativos bonitos e nativos para iOS e Android a partir de uma única base de código com Flutter. \n\nRequisitos:\n- Experiência profissional com Flutter e a linguagem Dart.\n- Conhecimento em gerenciamento de estado (Bloc, Provider, Riverpod).\n- Experiência com consumo de APIs RESTful e GraphQL.\n- Publicação de apps na App Store e Google Play Store.\n- Conhecimento em Git.\n\nDiferenciais:\n- Experiência com integrações nativas (Method Channels).\n- Conhecimento em testes automatizados.",
+        "url_vaga": "https://example.com/vaga/25"
+    },
+    {
+        "titulo_vaga": "Analista de Business Intelligence (BI) Pleno",
+        "empresa": "Retail Insights",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Ajude nossa empresa de varejo a tomar decisões mais inteligentes através dos dados. Você será responsável por criar dashboards, relatórios e análises que guiarão a estratégia do negócio.\n\nRequisitos:\n- Experiência com ferramentas de BI (Power BI é mandatório).\n- Proficiência em SQL para extração e manipulação de dados.\n- Conhecimento em modelagem de dados (Star Schema, Snowflake).\n- Habilidade de traduzir requisitos de negócio em soluções de dados.\n\nDiferenciais:\n- Conhecimento em Python para análise de dados.\n- Experiência no setor de varejo.",
+        "url_vaga": "https://example.com/vaga/26"
+    },
+    {
+        "titulo_vaga": "Scrum Master / Agile Coach Pleno",
+        "empresa": "Agile Transformation Inc.",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Guie nossas equipes de desenvolvimento na adoção e melhoria contínua de práticas ágeis. Você será um facilitador, mentor e removedor de impedimentos.\n\nRequisitos:\n- Experiência sólida atuando como Scrum Master.\n- Profundo conhecimento do framework Scrum e outros métodos ágeis (Kanban, XP).\n- Habilidade de facilitar cerimônias ágeis (Planning, Daily, Review, Retrospective).\n- Excelente comunicação e habilidades interpessoais.\n- Certificação Scrum Master (CSM, PSM I).\n\nDiferenciais:\n- Experiência como Agile Coach.\n- Conhecimento em métricas ágeis.",
+        "url_vaga": "https://example.com/vaga/27"
+    },
+    {
+        "titulo_vaga": "Administrador de Banco de Dados (DBA) Pleno",
+        "empresa": "Data Integrity Corp.",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Seja o guardião dos nossos dados. Buscamos um DBA para garantir a performance, segurança e disponibilidade dos nossos bancos de dados.\n\nRequisitos:\n- Experiência administrando bancos de dados PostgreSQL e/ou MySQL em produção.\n- Conhecimento em otimização de queries e tuning de performance.\n- Experiência com estratégias de backup e recovery.\n- Habilidade em scripting (Shell, Python).\n\nDiferenciais:\n- Experiência com bancos de dados NoSQL (MongoDB, Redis).\n- Conhecimento em administração de bancos de dados na nuvem (AWS RDS, Azure SQL).",
+        "url_vaga": "https://example.com/vaga/28"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Software Embarcado Pleno",
+        "empresa": "IoT Recife",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Trabalhe na intersecção entre hardware e software, desenvolvendo firmwares para nossos dispositivos de Internet das Coisas (IoT).\n\nRequisitos:\n- Experiência com programação em C/C++ para sistemas embarcados.\n- Conhecimento de microcontroladores (ex: ARM, ESP32).\n- Experiência com protocolos de comunicação (I2C, SPI, UART, MQTT).\n- Habilidade de ler esquemas eletrônicos.\n\nDiferenciais:\n- Experiência com FreeRTOS ou outros sistemas operacionais de tempo real.\n- Conhecimento em Linux embarcado.",
+        "url_vaga": "https://example.com/vaga/29"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Elixir/Phoenix Pleno",
+        "empresa": "Functional Programming Co.",
+        "localizacao": "Remoto",
+        "descricao_completa": "Construa sistemas concorrentes, escaláveis e de baixa latência com a beleza da programação funcional usando Elixir e Phoenix.\n\nRequisitos:\n- Experiência profissional com Elixir e o framework Phoenix.\n- Conhecimento da plataforma BEAM e dos princípios do OTP.\n- Experiência com Ecto e bancos de dados PostgreSQL.\n- Familiaridade com Git.\n\nDiferenciais:\n- Experiência com GraphQL (Absinthe).\n- Conhecimento em LiveView para interfaces reativas.",
+        "url_vaga": "https://example.com/vaga/30"
+    },
+    {
+        "titulo_vaga": "Analista de Sistemas Pleno",
+        "empresa": "Legacy Systems Modernization",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Atue como a ponte entre as necessidades do negócio e a equipe de desenvolvimento. Você será responsável por levantar requisitos, modelar processos e especificar soluções de software.\n\nRequisitos:\n- Experiência com levantamento e documentação de requisitos funcionais e não-funcionais.\n- Conhecimento em modelagem de processos de negócio (BPMN).\n- Experiência com UML.\n- Proficiência em SQL para consultas e análise de dados.\n- Excelente habilidade de comunicação.\n\nDiferenciais:\n- Conhecimento em metodologias ágeis.\n- Experiência em projetos de migração de sistemas legados.",
+        "url_vaga": "https://example.com/vaga/31"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Cloud Pleno (GCP)",
+        "empresa": "Google Cloud Partners",
+        "localizacao": "Remoto",
+        "descricao_completa": "Especialize-se na nuvem do Google! Buscamos um Engenheiro de Cloud para projetar e implementar soluções na Google Cloud Platform.\n\nRequisitos:\n- Experiência com serviços do GCP (Compute Engine, GKE, Cloud Storage, BigQuery).\n- Conhecimento em redes na nuvem (VPC, Firewall Rules).\n- Experiência com Terraform para provisionamento de infraestrutura.\n- Habilidade em scripting (Python, Bash).\n\nDiferenciais:\n- Certificação Google Cloud (Associate Cloud Engineer ou superior).\n- Experiência com Anthos ou outros produtos de modernização de apps.",
+        "url_vaga": "https://example.com/vaga/32"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Rust Pleno",
+        "empresa": "Safe Systems Ltd.",
+        "localizacao": "Remoto",
+        "descricao_completa": "Escreva software seguro e performático com Rust. Buscamos um desenvolvedor para trabalhar em sistemas onde a segurança e a performance são críticas.\n\nRequisitos:\n- Experiência profissional com a linguagem Rust.\n- Sólido entendimento dos conceitos de ownership e borrowing.\n- Experiência com o ecossistema Rust (Cargo, Crates.io).\n- Conhecimento em programação de sistemas ou desenvolvimento de backend.\n- Familiaridade com Git.\n\nDiferenciais:\n- Experiência com WebAssembly (WASM) e Rust.\n- Conhecimento em programação assíncrona com Tokio.",
+        "url_vaga": "https://example.com/vaga/33"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor de Jogos Pleno (Unreal Engine)",
+        "empresa": "AAA Studio Brasil",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Trabalhe em jogos de grande porte usando a Unreal Engine. Buscamos um desenvolvedor com experiência em C++ para se juntar à nossa equipe de gameplay.\n\nRequisitos:\n- Experiência profissional com Unreal Engine e C++.\n- Conhecimento em Blueprints.\n- Sólidos conhecimentos de matemática e física para jogos.\n- Experiência com sistemas de controle de versão (Perforce, Git).\n\nDiferenciais:\n- Experiência com desenvolvimento de shaders ou sistemas de IA para jogos.\n- Portfólio com projetos na Unreal Engine.",
+        "url_vaga": "https://example.com/vaga/34"
+    },
+    {
+        "titulo_vaga": "Technical Writer Pleno",
+        "empresa": "Docs as Code Inc.",
+        "localizacao": "Remoto",
+        "descricao_completa": "Se você ama tecnologia e tem o dom de explicar coisas complexas de forma simples, venha ser nosso Escritor Técnico. Você será responsável por criar a documentação de nossas APIs e produtos.\n\nRequisitos:\n- Experiência prévia como Technical Writer ou em um cargo técnico com responsabilidades de documentação.\n- Habilidade de escrita em português e inglês técnico impecável.\n- Experiência com ferramentas de documentação (Markdown, Confluence, GitBook).\n- Capacidade de ler código e entender conceitos de arquitetura de software.\n\nDiferenciais:\n- Experiência com a filosofia 'Docs as Code'.\n- Conhecimento em OpenAPI/Swagger para documentação de APIs.",
+        "url_vaga": "https://example.com/vaga/35"
+    },
+    {
+        "titulo_vaga": "Engenheiro de Redes Pleno (Cloud)",
+        "empresa": "Connectivity Solutions",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Projete e gerencie as redes que conectam nossas aplicações na nuvem. Buscamos um Engenheiro de Redes com experiência em ambientes cloud.\n\nRequisitos:\n- Experiência com conceitos de redes (TCP/IP, DNS, roteamento, firewalls).\n- Conhecimento em configuração de redes virtuais em provedores de nuvem (AWS VPC, Azure VNet).\n- Experiência com VPNs e interconexões de redes.\n- Familiaridade com Infraestrutura como Código (Terraform).\n\nDiferenciais:\n- Certificações de rede (CCNA, etc.).\n- Certificações de nuvem (AWS, Azure).",
+        "url_vaga": "https://example.com/vaga/36"
+    },
+    {
+        "titulo_vaga": "Desenvolvedor Pleno (Kotlin/Backend)",
+        "empresa": "Modern Backend Systems",
+        "localizacao": "Remoto",
+        "descricao_completa": "Use o poder e a segurança do Kotlin no backend. Buscamos um desenvolvedor para construir serviços robustos com Ktor ou Spring Boot com Kotlin.\n\nRequisitos:\n- Experiência profissional com Kotlin para desenvolvimento backend.\n- Conhecimento em frameworks como Ktor ou Spring Boot.\n- Experiência com bancos de dados relacionais e NoSQL.\n- Familiaridade com programação assíncrona e coroutines.\n- Conhecimento em Git e Docker.\n\nDiferenciais:\n- Experiência com gRPC.\n- Conhecimento em arquitetura reativa.",
+        "url_vaga": "https://example.com/vaga/37"
+    },
+    {
+        "titulo_vaga": "QA (Analista de Testes Manuais) Pleno",
+        "empresa": "User Experience First",
+        "localizacao": "Recife, PE",
+        "descricao_completa": "Seja o advogado do usuário! Buscamos um analista de QA detalhista e criterioso para realizar testes manuais em nossas aplicações, garantindo uma experiência de uso impecável.\n\nRequisitos:\n- Experiência com planejamento e execução de casos de teste manuais.\n- Habilidade em testes exploratórios e de regressão.\n- Experiência com ferramentas de gestão de testes e bugs (Jira, TestRail).\n- Excelente capacidade de comunicação para reportar bugs de forma clara.\n\nDiferenciais:\n- Conhecimento básico em SQL para validação de dados.\n- Certificação CTFL.",
+        "url_vaga": "https://example.com/vaga/38"
+    },
+    {
+        "titulo_vaga": "CRM Developer Pleno (Microsoft Dynamics 365)",
+        "empresa": "Business Solutions Corp",
+        "localizacao": "Remoto",
+        "descricao_completa": "Especialize-se em uma das maiores plataformas de CRM do mundo. Buscamos um desenvolvedor para customizar e estender o Microsoft Dynamics 365 para nossos clientes.\n\nRequisitos:\n- Experiência com desenvolvimento na plataforma Dynamics 365 (Plugins, Custom Workflow Activities).\n- Conhecimento em C# e .NET.\n- Experiência com JavaScript para customizações de formulário.\n- Conhecimento da Power Platform (Power Apps, Power Automate).\n\nDiferenciais:\n- Certificações Microsoft Dynamics.\n- Experiência com integrações usando a API do Dataverse.",
+        "url_vaga": "https://example.com/vaga/39"
+    },
+    {
+        "titulo_vaga": "Site Reliability Engineer (SRE) Pleno",
+        "empresa": "Reliability Matters",
+        "localizacao": "Recife, PE (Híbrido)",
+        "descricao_completa": "Garanta que nossos sistemas estejam sempre disponíveis, performáticos e confiáveis. Buscamos um SRE para automatizar operações, monitorar a saúde dos serviços e responder a incidentes.\n\nRequisitos:\n- Experiência em um cargo de SRE, DevOps ou Engenharia de Software com foco em infraestrutura.\n- Proficiência em pelo menos uma linguagem de programação (Python, Go).\n- Experiência com ferramentas de monitoramento e observabilidade (Prometheus, Grafana, ELK Stack).\n- Conhecimento em automação de infraestrutura (Terraform, Ansible).\n- Experiência com Kubernetes.\n\nDiferenciais:\n- Experiência com SLOs, SLIs e Error Budgets.\n- Conhecimento profundo de sistemas Linux.",
+        "url_vaga": "https://example.com/vaga/40"
+    }
+]
