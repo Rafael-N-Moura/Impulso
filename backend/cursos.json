@@ -1,0 +1,62 @@
+[
+    {
+        "competencia": "Cloud Computing (AWS/Azure)",
+        "cursos": [
+            {
+                "nome": "Fundamentos de AWS Cloud Practitioner",
+                "plataforma": "Alura",
+                "url": "https://cursos.alura.com.br/course/aws-cloud-practitioner"
+            },
+            {
+                "nome": "Introdução à Computação em Nuvem",
+                "plataforma": "Coursera",
+                "url": "https://www.coursera.org/learn/cloud-computing"
+            }
+        ]
+    },
+    {
+        "competencia": "Arquitetura de Microsserviços",
+        "cursos": [
+            {
+                "nome": "Microsserviços na Prática",
+                "plataforma": "Udemy",
+                "url": "https://www.udemy.com/course/microsservicos-na-pratica/"
+            }
+        ]
+    },
+    {
+        "competencia": "CI/CD (Jenkins, GitLab)",
+        "cursos": [
+            {
+                "nome": "Integração Contínua com Jenkins",
+                "plataforma": "Alura",
+                "url": "https://cursos.alura.com.br/course/jenkins-integracao-continua"
+            }
+        ]
+    },
+    {
+        "competencia": "Containerização com Docker & Kubernetes",
+        "cursos": [
+            {
+                "nome": "Docker para Iniciantes",
+                "plataforma": "Udemy",
+                "url": "https://www.udemy.com/course/docker-para-iniciantes/"
+            },
+            {
+                "nome": "Kubernetes: Orquestração de Containers",
+                "plataforma": "Alura",
+                "url": "https://cursos.alura.com.br/course/kubernetes-orquestracao-containers"
+            }
+        ]
+    },
+    {
+        "competencia": "Soft Skills: Comunicação",
+        "cursos": [
+            {
+                "nome": "Comunicação Eficaz para Profissionais de TI",
+                "plataforma": "LinkedIn Learning",
+                "url": "https://www.linkedin.com/learning/comunicacao-eficaz-para-profissionais-de-ti"
+            }
+        ]
+    }
+]
